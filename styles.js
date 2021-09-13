@@ -1,13 +1,13 @@
 import { StyleSheet } from 'react-360';
 
 const styles = StyleSheet.create({
-  audioPanel: {
-    flexDirection: 'row',
-  },
-  audioImage: {
-    height: 50,
-    width: 50
-  },
+  // audioPanel: {
+  //   flexDirection: 'row',
+  // },
+  // audioImage: {
+  //   height: 50,
+  //   width: 50
+  // },
   infoPanel: {
     width: 400,
     height: 400,
