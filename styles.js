@@ -8,15 +8,15 @@ const styles = StyleSheet.create({
   //   height: 50,
   //   width: 50
   // },
-  infoPanel: {
-    width: 400,
-    height: 400,
-    opacity: 0.8,
-    backgroundColor: 'rgb(255, 200, 50)',
-    borderColor: 'rgb(255, 255, 255)',
-    borderWidth: 5,
-    borderRadius: 20,
-  },
+  // infoPanel: {
+  //   width: 400,
+  //   height: 400,
+  //   opacity: 0.8,
+  //   backgroundColor: 'rgb(255, 200, 50)',
+  //   borderColor: 'rgb(255, 255, 255)',
+  //   borderWidth: 5,
+  //   borderRadius: 20,
+  // },
   buttonPanel: {
     width: 400,
     height: 400,
