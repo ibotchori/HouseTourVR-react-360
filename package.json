@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "deploy": "node scripts/deploy.js",
+    "build": "react-scripts build",
     "start": "node node_modules/react-360/scripts/packager.js",
     "bundle": "node node_modules/react-360/scripts/bundle.js",
     "open": "node -e \"require('xopen')('http://localhost:8081/index.html')\"",
